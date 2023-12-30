@@ -14,7 +14,7 @@ The following is used for Wake On LAN. https://docs.rs/wake-on-lan/latest/wake_o
 
 It is recommended to install Rust from the official website: https://www.rust-lang.org/tools/install
 
-You can install rust with the following shell command:
+- You can install rust with the following shell command:
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 
 NOTE: If you get the following error after attempting to run `rustc -v`:

@@ -1,0 +1,5 @@
+create table mac ( 
+    id int CONSTRAINT mac_pkey PRIMARY KEY NOT NULL, 
+    name varchar NOT NULL, 
+    mac varchar NOT NULL
+);
